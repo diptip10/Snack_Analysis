@@ -1,0 +1,5 @@
+outs:
+- md5: beb6b0f0ed4f8b0a099c4cf7b6bec25d
+  size: 32203
+  hash: md5
+  path: menu.xlsx
