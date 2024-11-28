@@ -1,0 +1,5 @@
+outs:
+- md5: 0564d5d4ce62611661b7e15fcee77367
+  size: 22714
+  hash: md5
+  path: starbucks_drinkMenu_expanded.xlsx
